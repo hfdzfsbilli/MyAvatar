@@ -1,0 +1,10 @@
+<resources>
+    <!-- Primary Color: Blue -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#C0C0C0</color> <!-- Silver -->
+
+    <!-- Background and Text -->
+    <color name="background_color">#E3F2FD</color> <!-- Light Blue -->
+    <color name="text_color">#FFFFFF</color> <!-- White Text -->
+</resources>
